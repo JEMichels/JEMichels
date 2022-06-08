@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Formação Cientista de Dados, da Data Science Academy**
 
-- 💬 Me pergunte sobre **Excel, Python, SQL, Power BI**
+- 💬 Me pergunte sobre **Excel, Python, SQL, Power BI, Modelagem de Dados**
 
 - 📫 Você me acha pelo email **jemichelss@gmail.com**
 
